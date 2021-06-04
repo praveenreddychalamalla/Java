@@ -1,3 +1,8 @@
+/**
+ * @author Praveen Reddy Chalamalla
+ * @create date 2021-06-03 12:07:45
+ * @desc Insights about classes, objects and methods in Java
+ */
 class Person{
     private String name;
     private int year_of_birth;
