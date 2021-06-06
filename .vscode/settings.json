@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "Basics",
         "Assignments",
-        "OOPS"
+        "OOPS",
+	    "OOPS/Inheritance",
     ]
 }
