@@ -3,6 +3,8 @@
         "Basics",
         "Assignments",
         "OOPS",
-	    "OOPS/Inheritance",
+            "OOPS/Constructors",
+		    "OOPS/Inheritance",
+        	"OOPS/MethodOverriding",
     ]
 }
