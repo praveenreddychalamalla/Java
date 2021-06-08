@@ -6,5 +6,6 @@
             "OOPS/Constructors",
 		    "OOPS/Inheritance",
         	"OOPS/MethodOverriding",
+            "OOPS/Polymorphism",
     ]
 }

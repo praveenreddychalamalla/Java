@@ -6,7 +6,7 @@
 /**
  * A Base class reference can store an object of Base class or an object of Derived class. But reverse is not possible
  * Having stored a reference of an object of Derived class in a Base class reference variable , you can only access methods that are inherited from base class
- * (Similar to Base class Pointer pointing to Child class Object Concept C++)
+ *  (Similar to Base class Pointer pointing to Child class Object Concept C++)
  */
 class BaseRefernce{
     void show(){
