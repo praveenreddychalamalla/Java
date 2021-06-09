@@ -7,5 +7,7 @@
 		    "OOPS/Inheritance",
         	"OOPS/MethodOverriding",
             "OOPS/Polymorphism",
+            "OOPS/Abstract Classes",
+            "OOPS/Interfaces",
     ]
 }
