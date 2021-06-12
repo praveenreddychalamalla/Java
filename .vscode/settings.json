@@ -5,9 +5,11 @@
         "OOPS",
             "OOPS/Constructors",
 		    "OOPS/Inheritance",
-        	"OOPS/MethodOverriding",
+        	"OOPS/Method Overriding",
             "OOPS/Polymorphism",
             "OOPS/Abstract Classes",
             "OOPS/Interfaces",
+            "OOPS/Static Blocks",
+            "OOPS/Packages",
     ]
 }

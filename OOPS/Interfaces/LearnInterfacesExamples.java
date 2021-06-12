@@ -11,7 +11,7 @@ interface Figure{
     double PI=3.14; //By default PI is final and static
     double area();  //By default area() is public and abstract
 
-    default void show(){ //Non abstract methods, allowed since JAVA 8.  Public non abstract methods are not allowed.
+    default void show(){ //Non abstract methods, allowed since JAVA 8. But Public non abstract methods are never allowed.
         System.out.println("Showing Interface");
     }
 }
@@ -30,7 +30,7 @@ class Circle implements Figure{
         r=x;
     }
     public double area(){
-        // PI=3.145; Error. Final members cannot be modified. Read only operation
+        // PI=3.145; Error. Final members cannot be modified. Read only operation on them is allowed
         return PI*r*r;
     }
 }
