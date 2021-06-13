@@ -6,7 +6,7 @@
 
 /**
  * Method Overriding refers to redefining the base class method in a derived class. 
- * A method of base class with same signature with different implementation is written in the derived class. Signature of 2 methods must match
+ * A method of base class with same signature, with different implementation is written in the derived class. Signature of 2 methods must match
  * Note: Data members cannot be overridden.
  */
  class Base{
