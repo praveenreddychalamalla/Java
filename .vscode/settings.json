@@ -9,8 +9,10 @@
             "OOPS/Polymorphism",
             "OOPS/Abstract Classes",
             "OOPS/Interfaces",
-            "OOPS/Static Blocks",
-            "OOPS/Packages",
             "OOPS/Inner Classes",
+        "Static Blocks",
+        "Packages",
+        "Enums",
+        "Generics",
     ]
 }
