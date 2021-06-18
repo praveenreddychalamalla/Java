@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "Basics",
         "Assignments",
+        "Collections",
         "OOPS",
             "OOPS/Constructors",
 		    "OOPS/Inheritance",
@@ -14,5 +15,6 @@
         "Packages",
         "Enums",
         "Generics",
+	
     ]
 }
