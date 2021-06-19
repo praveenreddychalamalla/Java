@@ -13,7 +13,7 @@
  * Creating or returning a new object of exception doesn't throw any exception.
  * We can rethrow an exception caught in catch block.
  * If a super class throws an unchecked exception, it can be overridden in the sub class with the same exception or any other unchecked exceptions
- * Even if we write a return statement is placed in a try block, finally block will be executed before returning.
+ * Even if we write a return statement in a try block, finally block will be executed before returning.
  * Multiple exceptions can be caught in the same catch block with 'or' operator. Supported since Java 7
  */
 class temp{
