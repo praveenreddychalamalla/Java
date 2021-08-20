@@ -6,7 +6,7 @@
 
 /**
  * Polymorphism - Same name having different forms
- * Binding/Linking is the process where function is linked to function definition.
+ * Binding/Linking is the process where a function cal is linked to function definition.
  * Compile time polymorphism - Linking a function call to function defintion is done at compile time
  * Compile time polymorphism is achieved through function overloading (Function Polymorphism). Function Overloading doesn't save memory
  * Compile time linking - Static binding/ Early binding
